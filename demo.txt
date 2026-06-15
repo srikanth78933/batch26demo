@@ -1,4 +1,0 @@
-pipleine {
-    agent any
-    tools {
-    
