@@ -1,24 +1,4 @@
-<groupId>com.example</groupId>
-    <artifactId>simple-java-app</artifactId>
-    <version>1.0</version>
-    <packaging>jar</packaging> <!-- JAR packaging -->
-
-    <properties>
-        <maven.compiler.source>11</maven.compiler.source>
-        <maven.compiler.target>11</maven.compiler.target>
-    </properties>
-
-    <dependencies>
-        <!-- JUnit for testing -->
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.12</version>
-            <scope>test</scope>
-        </dependency>
-    </dependencies>
-
-    <build>
+<build>
         <plugins>
             <!-- Plugin for creating executable jar -->
             <plugin>
