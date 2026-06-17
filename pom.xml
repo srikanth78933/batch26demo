@@ -1,3 +1,8 @@
  </build>
 </project>
-
+<!-- Project Details -->
+    <groupId>com.example</groupId>
+    <artifactId>demo-app</artifactId>
+    <version>1.0.0</version>
+    <name>demo-app</name>
+    <description>Sample Spring Boot Application</description>
